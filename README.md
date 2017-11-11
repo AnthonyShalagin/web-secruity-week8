@@ -24,13 +24,18 @@ Vulnerability #1: Session_Hijacking
 
 Vulnerability #2: SQL_Injection_SQLi
 
+![some alt tag](https://media.giphy.com/media/3o6fJdDtQaE4NXjJKM/giphy.gif)
 
 ## Green
 
 Vulnerability #1: Username_Enumeration
 
+![some alt tag](https://media.giphy.com/media/26u4523Lj9lnUhIHe/giphy.gif)
+
+
 Vulnerability #2: Cross_Site_Scripting_XSS
 
+![some alt tag](https://media.giphy.com/media/l2QEfl2CqAgtjJjLG/giphy.gif)
 
 ## Red
 

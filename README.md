@@ -19,7 +19,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: Session_Hijacking
-https://media.giphy.com/media/xT0xeI6m1gs0DGK1YA/giphy.gif
+
+https://giphy.com/gifs/xT0xeI6m1gs0DGK1YA/html5
 
 Vulnerability #2: SQL_Injection_SQLi
 

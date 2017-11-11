@@ -20,7 +20,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session_Hijacking
 
-https://giphy.com/gifs/3o6fITBIzSlyBQ1vJ6/html5
+<img src='https://giphy.com/gifs/3o6fITBIzSlyBQ1vJ6/html5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
 
 Vulnerability #2: SQL_Injection_SQLi
 

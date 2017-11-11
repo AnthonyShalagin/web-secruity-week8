@@ -32,10 +32,10 @@ Vulnerability #2: Cross_Site_Scripting_XSS
 
 ## Red
 Vulnerability #1:  Insecure_Direct_Object_Reference_IDOR
-https://media.giphy.com/media/26u42PmfGY4KcTkXu/giphy.gif
+![some alt tag](https://media.giphy.com/media/26u42PmfGY4KcTkXu/giphy.gif)
 
 Vulnerability #2: Cross_Site_Request_Forgery_CSRF
-https://media.giphy.com/media/3o6fIYAoExMFTZ9O9y/giphy.gif
+![some alt tag](https://media.giphy.com/media/3o6fIYAoExMFTZ9O9y/giphy.gif)
 
 ## Notes
 Describe any challenges encountered while doing the work

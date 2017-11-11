@@ -20,7 +20,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session_Hijacking
 
-<img src='https://imgur.com/a/U7xrz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/qZtiH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 

@@ -18,23 +18,25 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session_Hijacking
 
-Vulnerability #2: __________________
+<a href="https://imgflip.com/gif/1z7cy5"><img src="https://i.imgflip.com/1z7cy5.gif" title="made at imgflip.com"/></a>
+
+Vulnerability #2: SQL_Injection_SQLi
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username_Enumeration
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross_Site_Scripting_XSS
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1:  Insecure_Direct_Object_Reference_IDOR
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross_Site_Request_Forgery_CSRF
 
 
 ## Notes

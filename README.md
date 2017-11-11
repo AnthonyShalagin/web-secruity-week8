@@ -20,9 +20,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session_Hijacking
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gz8QD"><a href="//imgur.com/gz8QD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+![some alt tag](https://media.giphy.com/media/26u3YUKFSqZexH3QA/giphy.gif)
 
 Vulnerability #2: SQL_Injection_SQLi
 

@@ -19,8 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: Session_Hijacking
-
-<a href="https://imgflip.com/gif/1z7cy5"><img src="https://i.imgflip.com/1z7cy5.gif" title="made at imgflip.com"/></a>
+https://media.giphy.com/media/xT0xeI6m1gs0DGK1YA/giphy.gif
 
 Vulnerability #2: SQL_Injection_SQLi
 
